@@ -1,0 +1,25 @@
+.nav{
+    position:fixed;
+    background-color:lightblue;
+    height:100%;
+    left:0%;
+    top:0%;
+    width:200px;
+    font-size: 93%;
+
+
+}
+li{list-style: none;}
+.show {
+   margin-left:200px;
+}
+
+.style{border-radius: 15px;
+      background-color: transparent;
+      border-style: solid;
+       width:100px;
+       border-width: 2px;
+       border-color: black;
+   
+       color:black}
+
